@@ -1,0 +1,21 @@
+我要做一個前後端分離的專案, 幫助使用者做單字記憶, 並透過openAI API為每個單字產生多個例句.
+
+需要具備以下功能:
+1. 讓使用者可以建立卡堆
+2. 使用者可以輸入要記憶的單字到指定的卡堆
+3. 使用者可以透過openAI API為每個單字產生多個例句
+4. 使用者可以對卡堆以及單字做crud操作
+5. 為每個功能產生unit test
+6. 身分驗證機制
+
+要使用的技術：
+1. backend: express.js, typescript
+2. frontend: vue.js
+3. database: mongodb
+4. API doc: swagger
+5. authentication: keycloak, oauth
+
+資源：
+openAI token:
+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
+
